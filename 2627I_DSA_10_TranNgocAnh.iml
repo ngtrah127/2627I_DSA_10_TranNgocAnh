@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../.idea" />
+    <content url="file://$MODULE_DIR$/Week3">
+      <sourceFolder url="file://$MODULE_DIR$/Week3" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/Week4">
+      <sourceFolder url="file://$MODULE_DIR$/Week4" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/Week5+6">
+      <sourceFolder url="file://$MODULE_DIR$/Week5+6" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/Week7">
+      <sourceFolder url="file://$MODULE_DIR$/Week7" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="25" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
